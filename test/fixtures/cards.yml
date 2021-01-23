@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  oracle_text: MyString
+  set: MyString
+  pow: 1
+  tou: 1
+  cmc: 1
+
+two:
+  oracle_text: MyString
+  set: MyString
+  pow: 1
+  tou: 1
+  cmc: 1
